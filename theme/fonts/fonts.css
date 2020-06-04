@@ -1,0 +1,107 @@
+
+@font-face {
+    font-family: 'proxima_nova';
+    src: url('proximanova-black.woff2') format('woff2'),
+         url('proximanova-black.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'proxima_nova';
+    src: url('proximanova-bold.woff2') format('woff2'),
+         url('proximanova-bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'proxima_nova';
+    src: url('proximanova-boldit.woff2') format('woff2'),
+         url('proximanova-boldit.woff') format('woff');
+    font-weight: 700;
+    font-style: italic;
+
+}
+
+
+@font-face {
+    font-family: 'proxima_nova';
+    src: url('proximanova-light.woff2') format('woff2'),
+         url('proximanova-light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'proxima_nova';
+    src: url('proximanova-lightit.woff2') format('woff2'),
+         url('proximanova-lightit.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'proxima_nova';
+    src: url('proximanova-reg.woff2') format('woff2'),
+         url('proximanova-reg.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'proxima_nova';
+    src: url('proximanova-regit.woff2') format('woff2'),
+         url('proximanova-regit.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+
+}
+
+
+@font-face {
+    font-family: 'proxima_nova';
+    src: url('proximanova-xbold.woff2') format('woff2'),
+         url('proximanova-xbold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+
+}
+
+@font-face {
+font-family: 'proxima_nova';
+src: url('ProximaNova-Light.eot');
+src: url('ProximaNova-Light.eot?#iefix') format('embedded-opentype'),
+url('ProximaNova-Light.woff') format('woff'),
+url('ProximaNova-Light.ttf') format('truetype');
+font-weight: 300;
+font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'PTRoubleSans';
+  src: url('PTRoubleSans.eot');
+  src: url('PTRoubleSans.woff2') format('woff2'),
+       url('PTRoubleSans.woff') format('woff'),
+       url('PTRoubleSans.ttf') format('truetype'),
+       url('PTRoubleSans.svg#PTRoubleSans') format('svg'),
+       url('PTRoubleSans.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
